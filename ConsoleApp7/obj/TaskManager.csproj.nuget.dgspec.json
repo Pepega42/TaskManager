@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\senk\\TaskM\\ConsoleApp7\\ConsoleApp7.csproj": {}
+    "C:\\senk\\TaskM\\ConsoleApp7\\TaskManager.csproj": {}
   },
   "projects": {
-    "C:\\senk\\TaskM\\ConsoleApp7\\ConsoleApp7.csproj": {
+    "C:\\senk\\TaskM\\ConsoleApp7\\TaskManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\senk\\TaskM\\ConsoleApp7\\ConsoleApp7.csproj",
-        "projectName": "ConsoleApp7",
-        "projectPath": "C:\\senk\\TaskM\\ConsoleApp7\\ConsoleApp7.csproj",
+        "projectUniqueName": "C:\\senk\\TaskM\\ConsoleApp7\\TaskManager.csproj",
+        "projectName": "TaskManager",
+        "projectPath": "C:\\senk\\TaskM\\ConsoleApp7\\TaskManager.csproj",
         "packagesPath": "C:\\Users\\Дима\\.nuget\\packages\\",
         "outputPath": "C:\\senk\\TaskM\\ConsoleApp7\\obj\\",
         "projectStyle": "PackageReference",

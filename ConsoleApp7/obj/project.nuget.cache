@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BsoMrs5QGZ6bsuZJvIgm37703QDidK09nfPCm26qp/4iQz33tFSFSiv+klKvygU0rUJTCl+yjv0PWZgPbNCgyA==",
+  "dgSpecHash": "eLeIrtR7/iyHuqrRGVN70SBM1KW6adFIFuHLfP4d6n0GbF3RP7QYcLbwgt3JcEHgkDHEClhhbFBG9q4Cz1SJ9g==",
   "success": true,
-  "projectFilePath": "C:\\senk\\TaskM-master\\ConsoleApp7\\ConsoleApp7.csproj",
+  "projectFilePath": "C:\\senk\\TaskM\\ConsoleApp7\\TaskManager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

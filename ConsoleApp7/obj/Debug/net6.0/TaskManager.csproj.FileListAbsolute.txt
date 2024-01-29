@@ -1,0 +1,14 @@
+C:\senk\TaskM\ConsoleApp7\bin\Debug\net6.0\TaskManager.exe
+C:\senk\TaskM\ConsoleApp7\bin\Debug\net6.0\TaskManager.deps.json
+C:\senk\TaskM\ConsoleApp7\bin\Debug\net6.0\TaskManager.runtimeconfig.json
+C:\senk\TaskM\ConsoleApp7\bin\Debug\net6.0\TaskManager.dll
+C:\senk\TaskM\ConsoleApp7\bin\Debug\net6.0\TaskManager.pdb
+C:\senk\TaskM\ConsoleApp7\obj\Debug\net6.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\senk\TaskM\ConsoleApp7\obj\Debug\net6.0\TaskManager.AssemblyInfoInputs.cache
+C:\senk\TaskM\ConsoleApp7\obj\Debug\net6.0\TaskManager.AssemblyInfo.cs
+C:\senk\TaskM\ConsoleApp7\obj\Debug\net6.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\senk\TaskM\ConsoleApp7\obj\Debug\net6.0\TaskManager.dll
+C:\senk\TaskM\ConsoleApp7\obj\Debug\net6.0\refint\TaskManager.dll
+C:\senk\TaskM\ConsoleApp7\obj\Debug\net6.0\TaskManager.pdb
+C:\senk\TaskM\ConsoleApp7\obj\Debug\net6.0\TaskManager.genruntimeconfig.cache
+C:\senk\TaskM\ConsoleApp7\obj\Debug\net6.0\ref\TaskManager.dll

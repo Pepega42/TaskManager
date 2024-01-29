@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\senk\\TaskM-master\\ConsoleApp7\\ConsoleApp7.csproj",
-      "projectName": "ConsoleApp7",
-      "projectPath": "C:\\senk\\TaskM-master\\ConsoleApp7\\ConsoleApp7.csproj",
+      "projectUniqueName": "C:\\senk\\TaskM\\ConsoleApp7\\TaskManager.csproj",
+      "projectName": "TaskManager",
+      "projectPath": "C:\\senk\\TaskM\\ConsoleApp7\\TaskManager.csproj",
       "packagesPath": "C:\\Users\\Дима\\.nuget\\packages\\",
-      "outputPath": "C:\\senk\\TaskM-master\\ConsoleApp7\\obj\\",
+      "outputPath": "C:\\senk\\TaskM\\ConsoleApp7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

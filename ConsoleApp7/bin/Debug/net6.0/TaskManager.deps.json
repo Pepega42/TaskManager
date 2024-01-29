@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ConsoleApp7/1.0.0": {
+      "TaskManager/1.0.0": {
         "runtime": {
-          "ConsoleApp7.dll": {}
+          "TaskManager.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ConsoleApp7/1.0.0": {
+    "TaskManager/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
